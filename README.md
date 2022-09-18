@@ -1,5 +1,8 @@
 # Memes-App
 Simple Meme App 
+## Features
+- Display random meme
+- Download 
 ## Screenshots
 <br>
 <table>
